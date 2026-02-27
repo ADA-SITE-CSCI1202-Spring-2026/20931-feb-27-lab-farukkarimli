@@ -111,7 +111,7 @@ public class MainObject {
         System.out.println(phd);
 
         // test equals
-        Person p2 = new Person("Ali", "Karimov", "Male");
+        Person p2 = new Person("Faruk", "Karimli", "Male");
         System.out.println("Person equal: " + p.equals(p2));
     }
 }
